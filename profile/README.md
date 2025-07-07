@@ -1,10 +1,7 @@
 # RiV Chain Ltd.™  
 *Decentralized Mesh Infrastructure for IoT, AI & FinTech*
 
-[![Website](https://img.shields.io/badge/website-rivchain.org-blue)](https://rivchain.org)  
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
-[![Platform](https://img.shields.io/badge/platform-cross--platform-blue)]()  
-[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
+[![Website](https://img.shields.io/badge/website-rivchain.org-blue)](https://rivchain.org)  [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  [![Platform](https://img.shields.io/badge/platform-cross--platform-blue)]()  [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
 
 ---
 
