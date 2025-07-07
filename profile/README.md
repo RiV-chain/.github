@@ -27,7 +27,7 @@ Financial-grade DLT stack integrated into our mesh network for secure identity, 
 
 - Decentralized, portable infrastructure for FinTech, AI inference, and embedded devices  
 - Mesh-native networking for coordination of IP cameras, LLMs, NAS, and smart systems  
-- Remote private AI services with support for:  
+- Remote private inference AI with support for:  
   - **LM Studio**  
   - **Open WebUI**  
   - **Ollama**  
