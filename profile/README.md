@@ -1,7 +1,7 @@
 # RiV Chain™  
 *Decentralized Mesh Infrastructure for IoT, AI & FinTech*
 
-[![Website](https://img.shields.io/badge/website-rivchain.org-blue)](https://rivchain.org)[![License: CC BY 4.0](https://img.shields.io/badge/license-CC--BY--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)[![Platform](https://img.shields.io/badge/platform-cross--platform-blue)]()[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
+[![Website](https://img.shields.io/badge/website-rivchain.org-blue)](https://rivchain.org) [![Default License: CC BY 4.0](https://img.shields.io/badge/license-CC--BY--4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Platform](https://img.shields.io/badge/platform-cross--platform-blue)]() [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
 
 
 RiV Chain Ltd.™ is an Ireland-based FinTech and infrastructure R&D company focused on decentralized networking. We specialize in secure, peer-verified systems for mesh connectivity, remote AI coordination, and distributed identity—empowering a world where devices, AI agents, and inference hosts connect directly, securely, and autonomously.
