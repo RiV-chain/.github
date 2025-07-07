@@ -13,7 +13,7 @@ RiV Chain Ltd.™ is an Ireland-based FinTech and infrastructure R&D company foc
 ### v6Space™  
 A self-organizing, end-to-end encrypted IPv6 overlay mesh. Enables static, cryptographic IP addressing for secure access to NAS, servers, AI inference tools, IoT devices, and remote networks—without NAT traversal or central servers.
 
-### Cuplink™  
+### CupLink™  
 Lightweight, encrypted distributed video calling service over mesh environments with self generated identity (Ipv6).
 
 ### Distributed DNS & VPN  
