@@ -10,7 +10,8 @@
 
 ## About RiV Chain Ltd.™
 
-**RiV Chain Ltd.™ is an Ireland-based FinTech and infrastructure R&D company focused on decentralized networking. We specialize in secure, peer-verified systems for mesh connectivity, remote AI coordination, and distributed identity—empowering a world where devices, AI agents, and inference hosts connect directly, securely, and autonomously.
+RiV Chain Ltd.™ is an Ireland-based FinTech and infrastructure R&D company focused on decentralized networking. We specialize in secure, peer-verified systems for mesh connectivity, remote AI coordination, and distributed identity—empowering a world where devices, AI agents, and inference hosts connect directly, securely, and autonomously.
+
 ---
 
 ## 🧠 Flagship Technologies
