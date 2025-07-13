@@ -49,7 +49,7 @@ Financial-grade DLT stack integrated into our mesh network for secure identity, 
 
 - Peer-verified encrypted networking  
 - Cryptographic IPv6 identity assignment  
-- Distributed DNS & VPN*  
+- Distributed DNS - dDNS & Virtual private Network - VpN*  
 - Portable AI inference mesh systems  
 - IPv6-first mesh infrastructure  
 - Decentralized device communication  
@@ -62,4 +62,4 @@ Financial-grade DLT stack integrated into our mesh network for secure identity, 
 ---
 [RiV Chain](https://rivchain.org) | [CupLink](https://cuplink.net)
 
-Note: VPN* - Virtual Public Network also VpN.
+Note: VpN* - Virtual public Network not be confused with VPN - Virtual Private Network.
